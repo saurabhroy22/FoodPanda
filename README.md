@@ -20,4 +20,15 @@
  - manual testing
  - unit testing 
  - integration testing
+ # setting up testing for our app
+  - install react- testing libraby
+  - intall jest
+  - intall babel dependencies
+  - configure babel
+  - eliminating  conflict between the parcel configuration of babel to the jest configuration for babel
+  - Jest initialization npx jest --init
+  - install jsDom library
+  - intall @babel/preset-react for enabling jest to execute jsx code
+  - include @babel/preset-react inside my babel config file
+  - install npm -D @testing-library/jest-dom
  
